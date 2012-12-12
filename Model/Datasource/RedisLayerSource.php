@@ -1,6 +1,6 @@
 <?php
 
-class RedisSource extends DataSource
+class RedisLayerSource extends DataSource
 {
 
 	private $redis = null;
